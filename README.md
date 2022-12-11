@@ -39,3 +39,4 @@ ________________________________________________________________________________
 <p align='center'>
 You can contact me here: <a href='https://mail.google.com/mail/u/0/?fs=1&to=bane.baki.1997@gmail.com&tf=cm'><img width="22" alt='Gmail' title='Gmail' src='https://cdn-icons-png.flaticon.com/512/281/281769.png'/></a> or <a href="https://www.linkedin.com/in/branislav-milosevic-006948186/" title="LinkedIn Profile"><img width="22" alt='LinkedIn' title='LinkedIn' src="https://user-images.githubusercontent.com/39860853/206858762-ff98cdd5-1af2-4f00-90e6-bf4484c82447.png"></a>
 </p>
+<p align='center'>And for more details about me and my projects you can go here: https://github.com/JustBaneIsFine/JustBaneIsFine.github.io </p>
