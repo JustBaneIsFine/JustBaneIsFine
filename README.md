@@ -11,8 +11,10 @@ Welcome
 <br>
 <p align='center'>
 :computer: My name is Branislav. But, @JustBaneIsFine...
-
+<br>
+<br>
 I am aspiring to become a great full-stack web developer, and do some good in the world trough this amazing field of coding and problem-solving.
+
 <br>
 <br>
  :bulb: What i use :bulb:
