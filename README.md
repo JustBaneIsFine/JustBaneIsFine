@@ -11,17 +11,13 @@ Welcome
 <br>
 <p align='center'>
 :computer: My name is Branislav. But, @JustBaneIsFine...
+
+I am aspiring to become a great full-stack web developer, and do some good in the world trough this amazing field of coding and problem-solving.
 <br>
 <br>
  :bulb: What i use :bulb:
   <p align="center">
-  <img alt="express,js,mongodb,nodejs,bash,gitblender,html,ps" title='express,js,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode' src="https://skillicons.dev/icons?i=express,js,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode" />
-</p>
-  <p align='center'>
-  :mag_right: What im learning currently :mag:
-  </p>
-<p align="center">
-  <img alt='nextjs,react,sass,ts' title='nextjs,react,sass,ts' src="https://skillicons.dev/icons?i=nextjs,react,sass,ts" />
+  <img alt="express,js,ts,react,mongodb,nodejs,bash,gitblender,html,ps" title='express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode' src="https://skillicons.dev/icons?i=express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode" />
 </p>
 </p>
 
@@ -30,7 +26,7 @@ __________________
   You can check out all my projects here https://justbaneisfine.github.io/ 
   <p align="center">
     However this page and the projects are not yet completed
-  <img alt='progressbar 45%' src="https://geps.dev/progress/40" />
+  <img alt='progressbar 60%' src="https://geps.dev/progress/60" />
 </p>
  </p>
 
