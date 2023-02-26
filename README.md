@@ -4,37 +4,30 @@
   </a>
 </h1>
 
-<h1 align="center">
-Welcome
-</h1>
-
 <br>
 <p align='center'>
-:computer: My name is Branislav. But, @JustBaneIsFine...
+:computer: My name is Branislav. But, @JustBaneIsFine... :computer:
 <br>
-<br>
-I am aspiring to become a great full-stack web developer, and do some good in the world trough this amazing field of coding and problem-solving.
 
+<p align='center'>
+  You can check out my portfolio and all my projects here: 
+  <br> 
+  https://justbaneisfine.github.io/ 
+ </p>
 <br>
 <br>
+<p align='center'>
  :bulb: What i use :bulb:
   <p align="center">
-  <img alt="express,js,ts,react,mongodb,nodejs,bash,gitblender,html,ps" title='express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode' src="https://skillicons.dev/icons?i=express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode" />
+  <img alt="express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode,jest" title='express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode,jest' src="https://skillicons.dev/icons?i=express,js,ts,react,mongodb,nodejs,bash,git,html,css,blender,ps,github,vscode,jest" />
 </p>
 </p>
-
-__________________
-<p align='center'>
-  You can check out all my projects here https://justbaneisfine.github.io/ 
-  <p align="center">
-    However this page and the projects are not yet completed
-  <img alt='progressbar 60%' src="https://geps.dev/progress/60" />
-</p>
- </p>
-
 
 _________________________________________________________________________________________
 <p align='center'>
-You can contact me here: <a href='https://mail.google.com/mail/u/0/?fs=1&to=bane.baki.1997@gmail.com&tf=cm'><img width="22" alt='Gmail' title='Gmail' src='https://cdn-icons-png.flaticon.com/512/281/281769.png'/></a> or <a href="https://www.linkedin.com/in/branislav-milosevic-006948186/" title="LinkedIn Profile"><img width="22" alt='LinkedIn' title='LinkedIn' src="https://user-images.githubusercontent.com/39860853/206858762-ff98cdd5-1af2-4f00-90e6-bf4484c82447.png"></a>
+You can contact me here:
+<br> 
+  <a href='https://mail.google.com/mail/u/0/?fs=1&to=bane.baki.1997@gmail.com&tf=cm'><img width="22" alt='Gmail' title='Gmail' src='https://cdn-icons-png.flaticon.com/512/281/281769.png'/></a> ____ <a href="https://www.linkedin.com/in/branislav-milosevic-006948186/" title="LinkedIn Profile"><img width="22" alt='LinkedIn' title='LinkedIn' src="https://user-images.githubusercontent.com/39860853/206858762-ff98cdd5-1af2-4f00-90e6-bf4484c82447.png"></a>
 </p>
-<p align='center'>And for more details about me and my projects you can go here: https://github.com/JustBaneIsFine/JustBaneIsFine.github.io </p>
+<p align='center'>If you want to go into more details about me and my projects, you can go here: <br>
+https://github.com/JustBaneIsFine/JustBaneIsFine.github.io </p>
